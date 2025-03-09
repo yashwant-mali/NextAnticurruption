@@ -1,7 +1,7 @@
 'use client';
 
-import Index from './pages/index';
+import Home from './home/page';
 
 export default function Page() {
-  return <Index />;
+  return <Home />;
 }
